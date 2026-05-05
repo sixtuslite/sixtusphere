@@ -24,7 +24,7 @@ function Hero() {
       background: 'radial-gradient(ellipse at 20% 50%, #0d1f1a 0%, #0a0a0a 70%)',
     }}>
       <p style={{ fontFamily: 'Share Tech Mono', color: '#00ff9d', fontSize: '0.85rem', letterSpacing: '0.2em', marginBottom: '1.5rem' }}>
-        // CYBERSECURITY AGENCY
+        {'// CYBERSECURITY AGENCY'}
       </p>
       <h1 style={{ fontSize: 'clamp(2.5rem, 6vw, 5rem)', fontWeight: 800, lineHeight: 1.1, marginBottom: '1.5rem' }}>
         {text}<span style={{ color: '#00ff9d' }}>_</span>
