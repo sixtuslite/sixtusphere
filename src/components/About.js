@@ -13,7 +13,7 @@ function About() {
       background: '#0a0a0a',
     }}>
       <p style={{ fontFamily: 'Share Tech Mono', color: '#00ff9d', fontSize: '0.85rem', letterSpacing: '0.2em', marginBottom: '1rem' }}>
-        // WHO WE ARE
+        {'// WHO WE ARE'}
       </p>
       <h2 style={{ fontSize: 'clamp(2rem, 4vw, 3rem)', fontWeight: 800, marginBottom: '1.5rem', color: '#e8e8e8' }}>
         About Sixtusphere

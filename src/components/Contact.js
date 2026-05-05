@@ -14,7 +14,7 @@ function Contact() {
   return (
     <section id="contact" style={{ padding: '6rem 2.5rem', background: '#111111' }}>
       <p style={{ fontFamily: 'Share Tech Mono', color: '#00ff9d', fontSize: '0.85rem', letterSpacing: '0.2em', marginBottom: '1rem' }}>
-        // GET IN TOUCH
+        {'// GET IN TOUCH'}
       </p>
       <h2 style={{ fontSize: 'clamp(2rem, 4vw, 3rem)', fontWeight: 800, marginBottom: '3rem', color: '#e8e8e8' }}>
         Contact Us
